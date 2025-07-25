@@ -16,25 +16,24 @@ A front-end clone of the Amazon homepage built using **HTML** and **CSS**.
 
 ## 📁 Folder Structure
 
-Amazon-clone/
-├── index.html
-├── style.css
+Amazon-clone/  
+├── index.html  
+├── style.css  
 ├── images/
-
 
 ## 🌐 Live Demo
 
 [Click here to view it live](https://codedynamox.github.io/Amazon-clone/)
 
-> GitHub Pages is enabled on the `main` branch for live preview.
+> GitHub Pages is enabled on the main branch for live preview.
 
 ---
 
 ## 🚀 How to Run Locally
 
 1. Clone this repo:
-   ```bash
-   git clone https://github.com/CodeDynamoX/Amazon-clone.git
+```bash
+git clone https://github.com/CodeDynamoX/Amazon-clone.git
 Open the index.html file in your browser.
 
 👩‍💻 Author
