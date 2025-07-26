@@ -21,14 +21,6 @@ Amazon-clone/
 ├── style.css  
 ├── images/
 
-## 🌐 Live Demo
-
-[Click here to view it live](https://codedynamox.github.io/Amazon-clone/)
-
-> GitHub Pages is enabled on the main branch for live preview.
-
----
-
 ## 🚀 How to Run Locally
 
 1. Clone this repo:
